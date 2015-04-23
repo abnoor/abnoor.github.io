@@ -7,27 +7,27 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Chris Banes
-description:      'I work as a DPE in the Android Developer Relations team. This is my personal blog and any views expressed here are mine, and not my employers.'
-url:              http://chris.banes.me
+title:            Abdi Noor
+description:      ''
+url:              http://abdi.io
 baseurl:          /
-logo:             /content/images/me.jpg
+logo:             /content/images/abdi2.png
 
 author:
-  name:           'Chris Banes'
-  url:            https://plus.google.com/+ChrisBanes
+  name:           'Abdi Noor'
+  url:
 
 paginate:         5
 
-disqus_shortname: chrisbanes
+disqus_shortname: abnoor 
 
 github:
-  repo:           https://github.com/chrisbanes/chrisbanes.github.io
+  repo:           https://github.com/abnoor/abnoor.github.io
 
 gems:
   - jekyll-sitemap
 
-twitter: '@chrisbanes'
+twitter: '@abdillest'
 
 kramdown:
   # Enable GitHub Flavored Markdown (fenced code blocks)
