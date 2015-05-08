@@ -11,4 +11,4 @@ Organisation for Nuclear Research (CERN). You can learn more about my research
 On this site you'll find some of my tutoring material, and Linux tips. Enjoy!
 
 I'm currently seeking new oppurtunities, my CV is [here](http://abdi.io/cv.html), or download a PDF
-version [here](http://abdi.io/content/docs/CV_Abdi_Noor.pdf).
+version [here](http://abdi.io/content/docs/Abdi_Noor_CV.pdf).
