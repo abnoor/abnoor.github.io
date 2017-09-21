@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: default
+title: about
 ---
 
 Hello! I'm Abdi, I'm a [Data Scientist at Red Ninja
